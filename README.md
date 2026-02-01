@@ -36,7 +36,7 @@ To build the `nei_post.exe` executable required for simulations, please refer to
 
 ### 2. Running a Simulation
 
-See `NEI_Simulation` for a complete example.
+See `NEI_Simulation.ipynb` for a complete example.
 
 ```python
 from src.nei_simulation import NEISimulation
